@@ -5,9 +5,9 @@ Please note, there are plenty of assumptions as laid out below.  You will need t
 
 This flow is dependant on these additional nodes that you must install
 
-  node-red-contrib-ui-artless-gauge
-  node-red-contrib-ui-level
-  node-red-contrib-ui-led
+> node-red-contrib-ui-artless-gauge
+> node-red-contrib-ui-level
+> node-red-contrib-ui-led
 
 This flow is dependant on the following flow
 
