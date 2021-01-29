@@ -23,10 +23,11 @@ This flow is dependant on the following hardware
 The hardware assumes the following network connectivity
   
 + GW-SL1 network IP address 192.168.10.224
++ HDMI to RCA audio tap https://www.amazon.com/gp/product/B083DDGGZ4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 for source 1
 
 There is also an assumption on the configuration of sources on the MC66.  I have two sources as noted below.  These need to be configured in the MC66 application
 
-+ Roku  - This is a HDMI audio tap that converts the HDMI audio to RCA cable and fed into the MC66 as source 1
++ Roku  - This is a HDMI audio tap that converts the HDMI audio signal (going to the TV) to RCA cable and fed into the MC66 as source 1
 + Alexa - This is a dedicated Echo 4 device I have connected to the MC66 with an external RCA cable and fed into source 2
 
 The flow assumes all 6 zones are configured and named
