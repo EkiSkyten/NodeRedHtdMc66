@@ -14,6 +14,10 @@ This flow is dependant on the following flow
 
 + EkiSkyten/NodeRedCss
   
+While not Css related, the static images used by the flows I post are part of this repo in the "static" resource folder
+
++ EkiSkyten/NodeRedCss/static
+
 This flow is dependant on the following hardware
 
 + HTD MC66 Multi-zone controller
