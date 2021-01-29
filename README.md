@@ -11,25 +11,31 @@ This flow is dependant on these additional nodes that you must install
 
 This flow is dependant on the following flow
 
-  EkiSkyten/NodeRedCss
++ EkiSkyten/NodeRedCss
   
 This flow is dependant on the following hardware
 
-  HTD MC66 Multi-zone controller
-  HTD GW-SL1 Smart Gateway 
-  RS232 connection between controller and gateway
++ HTD MC66 Multi-zone controller
++ HTD GW-SL1 Smart Gateway 
++ RS232 connection between controller and gateway
   
 The hardware assumes the following network connectivity
   
-  GW-SL1 network IP address 192.168.10.224
++ GW-SL1 network IP address 192.168.10.224
   
 The flow assumes all 6 zones are configured and named
 
-  Office, Living Room, Kitchen, Master, Master Bath, Patio
++ Office
++ Living Room
++ Kitchen
++ Master
++ Master
++ Bath
++ Patio
   
 As I only ever use this on one tablet, the CSS and layout assumes
 
-  Galaxy Tab S2 tablet  
++ Galaxy Tab S2 tablet  
   
 Disclaimer:
 
