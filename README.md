@@ -29,8 +29,7 @@ The flow assumes all 6 zones are configured and named
 + Living Room
 + Kitchen
 + Master
-+ Master
-+ Bath
++ Master Bath
 + Patio
   
 As I only ever use this on one tablet, the CSS and layout assumes
