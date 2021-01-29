@@ -5,6 +5,7 @@ Please note, there are plenty of assumptions as laid out below.  You will need t
 
 This flow is dependant on these additional nodes that you must install
 
++ node-red-dashboard
 + node-red-contrib-ui-artless-gauge
 + node-red-contrib-ui-level
 + node-red-contrib-ui-led
